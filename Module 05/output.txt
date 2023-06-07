@@ -1,7 +1,14 @@
-Hello I am Nirob Barman
+HelloWorld
+World
 Hello
-I
-am
-Nirob
-Barman
-5
+Push and pop methods
+HelloA
+Hell
+String assigning method
+Hello
+Hello
+String Erasing method
+Hell
+Hellrld
+String Replace method
+Hellsorld
